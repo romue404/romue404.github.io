@@ -1,0 +1,21 @@
+baseURL = "https://github.com/romue404/romue404.github.io"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Website of Robert Müller"
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+publishDir = "docs"
+
+# Enable Disqus
+#disqusShortname = ""
+
+# Google Analytics
+#googleAnalytics = "UA-123-45"
+
+# Syntax highlighting
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
