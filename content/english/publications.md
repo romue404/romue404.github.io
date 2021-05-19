@@ -1,8 +1,10 @@
----
-title: "Publications"
-date: 2021-05-19T16:16:49+02:00
-draft: true
----
++++
+title= "Publications"
+description = "My publications"
+date = "2021-05-19"
+aliases = ["papers"]
+author = "Robert"
++++
 
 * Robert Müller, Steffen Illium and Claudia Linnhoff-Popien, „Deep Recurrent Interpolation Networks for Anomalous Sound Detection“, accepted at IJCNN 2021
 * Robert Müller, Steffen Illium, Fabian Ritz and Kyrill Schmid, Analysis of Feature Representations for Anomalous Sound Detection, ICAART 2021. 
