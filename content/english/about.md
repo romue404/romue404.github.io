@@ -1,25 +1,12 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+title = "About me"
+description = "Some facts about me"
+date = "2021-05-20"
+aliases = ["about-me"]
+author = "Robert"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-
-Hugo makes use of a variety of open source projects including:
-
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+I'm a research associate at the [mobile and distributed systems group](http://www.mobile.ifi.lmu.de/) at [LMU Munich](https://www.lmu.com) and currently pursuing a Ph.D. in computer science.
+I hold a M. Sc. in computer science and a B. Sc. in media-informatics.
+As part of the  [Technology and Research on Artificial Intelligence Laboratory at LMU Munich (TRAIL)] i am interested in machine learning with deep neural networks and more specifically in anomaly detection and reinforcement learning.
+Take a look at my [publications](https://scholar.google.de/citations?user=mSalzCEAAAAJ) if you are interested. Besides my teaching duties, i am had of services at the [DIGITALE WELT](https://digitaleweltmagazin.de/), a magazine on digitization that is published quarterly. Moreover, i worked/work in industrial projects with [SWM (munich's public utilities[)](https://www.swm.de/) (acoustic leak detection with neural networks) and the [Fraunhofer-Institut für Kognitive Systeme IKS](https://www.iks.fraunhofer.de/) (securing intelligent systems).

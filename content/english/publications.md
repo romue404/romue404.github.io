@@ -5,7 +5,7 @@ date = "2021-05-19"
 aliases = ["papers"]
 author = "Robert"
 +++
-*  **Deep Recurrent Interpolation Networks for Anomalous Sound Detection**, Robert Müller, Steffen Illium and Claudia Linnhoff-Popien, *accepted at IJCNN 2021*
+*  **Deep Recurrent Interpolation Networks for Anomalous Sound Detection**, Robert Müller, Steffen Illium and Claudia Linnhoff-Popien, *accepted at IJCNN 2021* :page_with_curl:
 * **Analysis of Feature Representations for Anomalous Sound Detection**, Robert Müller, Steffen Illium, Fabian Ritz and Kyrill Schmid, *ICAART 2021*. 
 * **Acoustic Leak Detection in Water Networks**, Robert Müller, Steffen Illium, Fabian Ritz, Tobias Schröder, Christian Platschek, Jörg Ochs and Claudia Linnhoff-Popien,  *ICAART 2021 (best industrial paper candidate)*.  
 * **Acoustic Anomaly Detection for Machine Sounds based on Image Transfer Learning**, Robert Müller, Fabian Ritz, Steffen Illium and Claudia Linnhoff-Popien , *ICAART 2021*.
