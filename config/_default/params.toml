@@ -3,7 +3,7 @@ title = "Robert Müller"
 author = "Robert Müller"
 #copyright = "2020-2021"
 description = "CS Ph.D. Student @LMU Munich <br> Personal Blog"
-profilePicture = "images/profile_bw.png"
+profilePicture = "images/profile.png"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
@@ -27,6 +27,7 @@ listDateFormat = "2/1/2006"
 # style
 contentratio = 0.65
 readMore = true
+disableThemeSwitcher = true
 
 
 [simpleAnalytics]
