@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Robert Müller</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Mar 2021 21:47:41 +0000</lastBuildDate><atom:link href="https://romue404.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://romue404.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advantage Weighted Regression - The Gist</title>
+      <link>https://romue404.github.io/post/advantage_weighted_regression_the_gist/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://romue404.github.io/post/advantage_weighted_regression_the_gist/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>The Figure Shortcode</title>
       <link>https://romue404.github.io/post/figure-shortcode/</link>
