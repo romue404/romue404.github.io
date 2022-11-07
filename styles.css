@@ -29,3 +29,9 @@ img.me {
 .text-primary {
     color: #03A9F4!important;;
 }
+
+.filter_brannan {
+    -webkit-filter: sepia(0.5) contrast(1.4);
+    filter: sepia(0.5) contrast(1.4);
+    
+}
