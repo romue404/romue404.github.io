@@ -2,10 +2,11 @@
     background-image: url( 'bg.svg' );
 }
 
-img.b-w {
-    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+/*img.b-w {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 
     filter:         grayscale(100%);
 }
+*/
 
 img.me {
     max-width:  130px;
