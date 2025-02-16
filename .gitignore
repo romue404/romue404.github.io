@@ -1,5 +1,6 @@
 # own additions
 Gemfile.lock
+.DS_Store
 
 # automatically generated
 _site
