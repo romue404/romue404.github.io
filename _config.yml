@@ -63,3 +63,5 @@ mathjax:
   enable: true
 
 date_format: "%Yd-%m-%Y"
+
+logo: "/images/me.webp"
