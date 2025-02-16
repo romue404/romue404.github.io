@@ -28,7 +28,7 @@ twitter_username: romue404
 github_username:  romue404
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-feed
 
