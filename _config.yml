@@ -30,7 +30,8 @@ twitter_username: romue404
 github_username:  romue404
 
 # Build settings
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
+#remote_theme: "mmistakes/so-simple-theme@3.2.0"
+theme: jekyll-theme-so-simple
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -71,3 +72,5 @@ markdown: kramdown
 
 paginate: 10  # amount of posts to show per page
 paginate_path: /page:num/
+
+locale: en-US
