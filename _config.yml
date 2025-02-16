@@ -30,8 +30,8 @@ twitter_username: romue404
 github_username:  romue404
 
 # Build settings
-#remote_theme: "mmistakes/so-simple-theme@3.2.0"
-theme: jekyll-theme-so-simple
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
+#theme: jekyll-theme-so-simple
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -49,7 +49,7 @@ author:
       icon:
 
 # own additions
-skin: "/assets/css/skins/custom.css"
+skin: "/assets/css/skins/light.css"
 
 google_fonts:
   - name: "Source Sans Pro"
