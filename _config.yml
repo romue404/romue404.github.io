@@ -21,7 +21,9 @@
 title: Dr. Robert Müller
 email: robert.mueller1990@googlemail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Dr. Robert Müller's personal website and blog.
+  I'm currently a Senior Data Scientist at Alexander Thamm ([at]).
+  Before that, i obtained my PhD at the Mobile and Distributed Systems Group at LMU Munich
+  where my resarch focused on (deep) anomaly detection and (safe) multi-agent reinforcement learning.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://romue404.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: romue404
@@ -57,6 +59,8 @@ skin: "/assets/css/skins/light.css"
 
 google_fonts:
   - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
     weights: "400,400i,700,700i"
 
 mathjax:

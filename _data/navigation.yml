@@ -1,2 +1,8 @@
-- title: Posts
-  url: /posts/
+- title: Home
+  url: /home/
+
+- title: Publications
+  url: https://scholar.google.de/citations?user=mSalzCEAAAAJ&hl=en
+
+- title: Github
+  url: https://github.com/romue404
