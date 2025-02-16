@@ -33,26 +33,19 @@ github_username:  romue404
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+author:
+  name:
+  picture:
+  email:
+  twitter:
+  links:
+    - title:
+      url:
+      icon:
 
 # own additions
 skin: "/assets/css/skins/light.css"
@@ -66,6 +59,15 @@ google_fonts:
 mathjax:
   enable: true
 
-date_format: "%Yd-%m-%Y"
+date_format: "%B %-d, %Y"
 
 logo: "/images/me.webp"
+
+liquid:
+  error_mode: strict
+
+permalink: /:categories/:title/
+markdown: kramdown
+
+paginate: 10  # amount of posts to show per page
+paginate_path: /page:num/
