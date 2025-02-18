@@ -21,9 +21,8 @@
 title: Dr. Robert Müller
 email: robert.mueller1990@googlemail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm currently a Senior Data Scientist at Alexander Thamm ([at]).
-  Before that, i obtained my PhD at the Mobile and Distributed Systems Group at LMU Munich
-  where my resarch focused on (deep) anomaly detection and (safe) multi-agent reinforcement learning.
+  Senior Data Scientist @ Alexander Thamm ([at]).
+  PhD in applied Machine Learning the Mobile and Distributed Systems Group @ LMU Munich.
 baseurl: /
 url: https://romue404.github.io
 twitter_username: romue404
@@ -52,13 +51,8 @@ author:
 skin: "/assets/css/skins/romue.css"
 
 google_fonts:
-  - name: "Source Sans Pro"
+  - name: "Roboto"
     weights: "400,400i,700,700i"
-  - name: "Lora"
-    weights: "400,400i,700,700i"
-
-mathjax:
-  enable: true
 
 date_format: "%B %-d, %Y"
 
@@ -69,6 +63,10 @@ liquid:
 
 permalink: /:categories/:title/
 markdown: kramdown
+mathjax:
+  enable: true
+  combo: "tex-svg"
+  tags: "ams"
 
 paginate: 10  # amount of posts to show per page
 paginate_path: /page:num/
