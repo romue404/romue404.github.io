@@ -55,6 +55,7 @@
                 linear-gradient(90deg, rgba(255, 255, 255, 0.05) 1px, transparent 1px),
                 linear-gradient(180deg, var(--cyber-purple) 0%, #3d127a 45%, #240b45 100%);
             background-size: 40px 40px, 40px 40px, 100% 100%;
+            background-attachment: fixed;
             overflow-x: hidden;
             overflow-y: auto;
             position: relative;
@@ -103,7 +104,7 @@
             padding: 20px;
             /* Use safe-area-inset to prevent Safari's bottom search bar from overlaying content */
             padding-top: max(40px, env(safe-area-inset-top));
-            padding-bottom: calc(40px + env(safe-area-inset-bottom));
+            padding-bottom: max(40px, env(safe-area-inset-bottom));
             padding-left: max(20px, env(safe-area-inset-left));
             padding-right: max(20px, env(safe-area-inset-right));
             position: relative;
