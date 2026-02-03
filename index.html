@@ -277,7 +277,9 @@
         }
 
         .button:active {
-            transform: translateY(-3px) scale(0.98);
+            transform: scale(0.96);
+            background: rgba(255, 255, 255, 0.15);
+            transition: transform 0.1s ease-out;
         }
 
         .button-icon {
@@ -361,7 +363,7 @@
     </style>
 </head>
 
-<body>
+<body ontouchstart="">
     <div class="container">
         <div class="card">
             <div class="profile-section">
